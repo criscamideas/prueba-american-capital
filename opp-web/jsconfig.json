@@ -2,9 +2,6 @@
   "compilerOptions": {
     "baseUrl": ".",
     "module": "ESNext",
-    "types": [
-      "vitest/globals"
-    ],
     "paths": {
       "@*": [
         "./src/*"
